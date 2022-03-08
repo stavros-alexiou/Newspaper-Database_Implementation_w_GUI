@@ -1,17 +1,17 @@
-To project apoteleitai apo 3 fakelous
+To παρόν έργο αποτελείται απο τρεις φακέλους.
 
-1os -> GUI se auton 8a vreite thn anafora mas se pdf pou uparxei analutikh parousiash gia to gui me screenshots
-       me epe3hghseis, alla kai ton phgaio kwdika ths java (xrhsimopoih8hkan oles oi vivlio8ikes javaFx kai rs2xml)
-2os -> mySQL se auton 8a vreite olo to arxeio .sql ths vashs mas oloklhrwmeno ka8ws kai ena txt pou periexei apokleistika stored procedures kai triggers pou ulopoih8hkan.
-3os -> Mia eikona me to sxesiako diagramma ka8ws kai ena pdf kai to sxesiako diagramma (protinoume na eleg3ete thn eikona ka8ws einai pio eudiakrith).
+1ος -> Γραφικό περιβάλλον χρήστη (GUI): Σε αυτόν τον φάκελο θα βρείτε μια αναφορά (.pdf) με την αναλυτική παρουσίαση που αφορά το γραφικό περιβάλλον του χρήστη και στιμιότυπα από την εκτέλεση του πηγαίου κώδικα καθώς και τον ίδιο τον κωώδικα σε java (χρήση βιβλιοθηκών javaFx και rs2xml).
+       
+2ος -> Πηγαίος κώδικας της Βάσης Δεδομέων της εφαρμογής σε SQL: Σε αυτό τον φάκελο περιέχεται το αρχείο .sql της βάσης, ολοκληρωμένο, αλλά και ένα .txt με τα stored procedures && triggers που υλοποιήθηκαν.
 
-To project epimeli8ikan oi:
+3ος -> Σχεσιακό διάγραμμα.
 
-
-ALEXIOU STAVROS 1059680
-AFENTAKI FLWRENTIA 1059576
+Την παρούσα εργασία επιμελήθηκαν οι:
 
 
-Foitites toy tmhmatos Mixanikwn H/Y & Plhroforikis 
-04/09/2020.
-Sas euxaristoume.
+Αλεξίου Σταύρος, Προπτυχιακός Φοιτητής ΤΜΗΥΠ.
+Aφεντάκη Φλωρεντία, Προπτυχιακή Φοιτήτρια ΤΜΗΥΠ.
+
+
+
+Σεπτέμβριος 2020.
